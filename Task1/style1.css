@@ -255,18 +255,26 @@ header{
     margin-left: 200px;
  
   }
+  .about h2 {
+    font-size: 25px;
+  }
+  .about p{
+    color: #fff;
+    font-size: 25px;
+    
+  }
 
   .about img {
     width: 300px;
     height:auto;
     position: absolute;
-    top: 10px;
+    top: 150px;
     left: 700px;
 
   }
   .ba {
     width: 1220px;
-    height: 250px;
+    height: 540px;
     padding: 10px;
     border: 1px solid gray;
     margin: 0;
